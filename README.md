@@ -1,6 +1,6 @@
 # OpenAI Cookbook
 
-The OpenAI Cookbook shares example code for accomplishing common tasks with the [OpenAI API].
+The OpenAI Cookbook shares example code for accomplishing everyday tasks with the [OpenAI API].
 
 To run these examples, you'll need an OpenAI account and associated API key ([create a free account][api signup]).
 
